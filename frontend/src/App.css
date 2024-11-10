@@ -1,0 +1,18 @@
+.gender{
+  display: flex;
+    
+  align-items: center;
+  gap: 5px;
+}
+.courses{
+  display: flex;
+    
+  align-items: center;
+  gap: 5px;
+}
+.submit:hover{
+    border-radius: 5px;
+    width: 100px;
+    height: 25px;
+    background-color: orangered;
+}
